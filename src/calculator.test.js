@@ -8,10 +8,10 @@ test("adds two numbers", () => {
 })
 
 
-test("adds two numbers to get failure response", () => {
-    const val = mathOpes.sum(3,4)
+// test("adds two numbers to get failure response", () => {
+//     const val = mathOpes.sum(3,4)
 
-    //assert 
-    expect(val).toBe(8)
-})
+//     //assert 
+//     expect(val).toBe(8)
+// })
 
